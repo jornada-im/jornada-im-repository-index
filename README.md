@@ -14,7 +14,7 @@ These documents help data managers and researchers collect, describe, and publis
 
 ### Tools
 
-Software tools for research and data curation, visalization, or publishing.
+Software tools for research and data curation, visualization, or publishing.
 
 * **Under construction** - nothing to see here yet.
 

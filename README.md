@@ -1,6 +1,6 @@
 # Jornada IM Team GitHub guide
 
-This is a guide to the GitHub repositories under the "jornada-im" organization, which is owned by the [Jornada Basin LTER (JRN)](https://jornada.nmsu.edu) Information Management and Data Science team (https://jornada-im.github.io).
+This is a guide to the GitHub repositories under the "jornada-im" organization, which is owned by the Information Management and Data Science team (https://jornada-im.github.io) for the [Jornada Basin LTER](https://jornada.nmsu.edu/lter) (JRN) and [Jornada Experimental Range](https://jornada.nmsu.edu) (JER).
 
 ## jornada-im repositories
 
@@ -20,4 +20,4 @@ Software tools for research and data curation, visualization, or publishing.
 
 ### Other
 
-* [jrn_emlassemblyline](https://github.com/jornada-im/jrn_emlassemblyline) contains examples and test cases for using [EMLassemblyline](https://github.com/EDIorg/EMLassemblyline) to package JRN data.
+* [jrn_emlassemblyline](https://github.com/jornada-im/jrn_emlassemblyline) contains examples and test cases for using [EMLassemblyline](https://github.com/EDIorg/EMLassemblyline) to package Jornada data.

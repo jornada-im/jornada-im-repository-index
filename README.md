@@ -1,4 +1,4 @@
-# Jornada IM Team GitHub guide (jornada-im_repository_index)
+# Jornada IM Team GitHub guide
 
 This is a guide to the GitHub repositories under the "jornada-im" organization, which is owned by the [Jornada Basin LTER (JRN)](https://jornada.nmsu.edu) Information Management and Data Science team (https://jornada-im.github.io)
 

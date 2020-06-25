@@ -1,6 +1,6 @@
 # Jornada IM Team GitHub guide
 
-This is a guide to the GitHub repositories under the "jornada-im" organization, which is owned by the Information Management and Data Science team (https://jornada-im.github.io) for the [Jornada Basin LTER](https://jornada.nmsu.edu/lter) (JRN) and [Jornada Experimental Range](https://jornada.nmsu.edu) (JER).
+This is a guide to the GitHub repositories under the "jornada-im" organization, which is owned by the Information Management and Data Science team (https://jornada-im.github.io) for the [Jornada Basin LTER](https://lter.jornada.nmsu.edu) (JRN) and [Jornada Experimental Range](https://jornada.nmsu.edu) (JER).
 
 ## jornada-im repositories
 
